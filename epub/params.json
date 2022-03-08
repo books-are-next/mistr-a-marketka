@@ -1,1 +1,862 @@
-{}
+{
+  "params": {
+    "metadata": {
+      "languageCode": "cs",
+      "contentType": "prose",
+      "title": "Mistr a Markétka",
+      "identifier": "urn:uuid:e92cff43-a13a-429b-bf74-2ba86cb9461d",
+      "author": "Michail Bulgakov",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2022-03-08T10:32:04.682Z",
+      "edition": "beletrie",
+      "publisherShort": "mkp"
+    },
+    "elements": {
+      "title": "MLP_uroven1_zvlastni_pripady\nMLP_uroven1_cast\nMLP-uroven2-kapitola\nMLP-uroven1-cast\nMLP-uroven1-zvlastni-pripady",
+      "subtitle": "",
+      "h2": "MLP-uroven3-nadpis",
+      "h3": "",
+      "h4": "",
+      "hr": "",
+      "hrBefore": "",
+      "hrAfter": "",
+      "br": "",
+      "brBefore": "MLP_text_bez1radku\nMLP_text_bez1radku_-0-12-\nMLP_text_bez1radku_-12-0\nMLP-text-bez1radku\nMLP-text-bez1radku--0-12\nMLP-text-bez1radku--12-0\nMLP_dopis_bez1radku",
+      "brAfter": "",
+      "blockquote": "MLP_verse_-0-12-\n\nMLP_verse_-12-12-\n\nMLP-dopis-bez1radku--I\nMLP-text--0-12",
+      "figure": "MLP_obrazky\nMLP-obrazky",
+      "em": "MLP_znak_kurziva_11b\nMLP_dopis_podpis_-I-\nMLP_titulka_prekladatel\nMLP-dopis-bez1radku--I\nMLP-text--I\nMLP-text-uprostred--I\nMLP-verse\nMLP-verse.+\nMLP-znak-kurziva-11b\nMLP-znak-kurziva-9b\nMLP-znak-tucna-kurziva-11b\nMLP-citat \nMLP-dopis-podpis--I\nMLP-titulka-prekladatel",
+      "strong": "MLP-tiraz-autor-a-nazev\nMLP-licence-paragraf",
+      "remove": "",
+      "ignore": ""
+    },
+    "structure": [
+      {
+        "isSection": true,
+        "id": "section-1",
+        "children": [
+          {
+            "filename": "mistr_a_marketka_001.md",
+            "xhtml": "mistr_a_marketka_001.xhtml",
+            "id": 0,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "mistr_a_marketka_002.md",
+            "xhtml": "mistr_a_marketka_002.xhtml",
+            "id": 1,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "mistr_a_marketka_003.md",
+            "xhtml": "mistr_a_marketka_003.xhtml",
+            "id": 2,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "mistr_a_marketka_004.md",
+            "xhtml": "mistr_a_marketka_004.xhtml",
+            "id": 3,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "mistr_a_marketka_005.md",
+            "xhtml": "mistr_a_marketka_005.xhtml",
+            "id": 4,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "mistr_a_marketka_006.md",
+            "xhtml": "mistr_a_marketka_006.xhtml",
+            "id": 5,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "mistr_a_marketka_007.md",
+            "xhtml": "mistr_a_marketka_007.xhtml",
+            "id": 6,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "mistr_a_marketka_008.md",
+            "xhtml": "mistr_a_marketka_008.xhtml",
+            "id": 7,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "mistr_a_marketka_009.md",
+            "xhtml": "mistr_a_marketka_009.xhtml",
+            "id": 8,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "mistr_a_marketka_010.md",
+            "xhtml": "mistr_a_marketka_010.xhtml",
+            "id": 9,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "mistr_a_marketka_011.md",
+            "xhtml": "mistr_a_marketka_011.xhtml",
+            "id": 10,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "mistr_a_marketka_012.md",
+            "xhtml": "mistr_a_marketka_012.xhtml",
+            "id": 11,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "mistr_a_marketka_013.md",
+            "xhtml": "mistr_a_marketka_013.xhtml",
+            "id": 12,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "mistr_a_marketka_014.md",
+            "xhtml": "mistr_a_marketka_014.xhtml",
+            "id": 13,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "mistr_a_marketka_015.md",
+            "xhtml": "mistr_a_marketka_015.xhtml",
+            "id": 14,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "mistr_a_marketka_016.md",
+            "xhtml": "mistr_a_marketka_016.xhtml",
+            "id": 15,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "mistr_a_marketka_017.md",
+            "xhtml": "mistr_a_marketka_017.xhtml",
+            "id": 16,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "mistr_a_marketka_018.md",
+            "xhtml": "mistr_a_marketka_018.xhtml",
+            "id": 17,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "mistr_a_marketka_019.md",
+            "xhtml": "mistr_a_marketka_019.xhtml",
+            "id": 18,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "mistr_a_marketka_020.md",
+            "xhtml": "mistr_a_marketka_020.xhtml",
+            "id": 19,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "mistr_a_marketka_021.md",
+            "xhtml": "mistr_a_marketka_021.xhtml",
+            "id": 20,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "mistr_a_marketka_022.md",
+            "xhtml": "mistr_a_marketka_022.xhtml",
+            "id": 21,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "mistr_a_marketka_023.md",
+            "xhtml": "mistr_a_marketka_023.xhtml",
+            "id": 22,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "mistr_a_marketka_024.md",
+            "xhtml": "mistr_a_marketka_024.xhtml",
+            "id": 23,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "mistr_a_marketka_025.md",
+            "xhtml": "mistr_a_marketka_025.xhtml",
+            "id": 24,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "mistr_a_marketka_026.md",
+            "xhtml": "mistr_a_marketka_026.xhtml",
+            "id": 25,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "mistr_a_marketka_027.md",
+            "xhtml": "mistr_a_marketka_027.xhtml",
+            "id": 26,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "mistr_a_marketka_028.md",
+            "xhtml": "mistr_a_marketka_028.xhtml",
+            "id": 27,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "mistr_a_marketka_029.md",
+            "xhtml": "mistr_a_marketka_029.xhtml",
+            "id": 28,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "mistr_a_marketka_030.md",
+            "xhtml": "mistr_a_marketka_030.xhtml",
+            "id": 29,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "mistr_a_marketka_031.md",
+            "xhtml": "mistr_a_marketka_031.xhtml",
+            "id": 30,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "mistr_a_marketka_032.md",
+            "xhtml": "mistr_a_marketka_032.xhtml",
+            "id": 31,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "mistr_a_marketka_033.md",
+            "xhtml": "mistr_a_marketka_033.xhtml",
+            "id": 32,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "mistr_a_marketka_034.md",
+            "xhtml": "mistr_a_marketka_034.xhtml",
+            "id": 33,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "mistr_a_marketka_035.md",
+            "xhtml": "mistr_a_marketka_035.xhtml",
+            "id": 34,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "mistr_a_marketka_036.md",
+            "xhtml": "mistr_a_marketka_036.xhtml",
+            "id": 35,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "mistr_a_marketka_037.md",
+            "xhtml": "mistr_a_marketka_037.xhtml",
+            "id": 36,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "mistr_a_marketka_038.md",
+            "xhtml": "mistr_a_marketka_038.xhtml",
+            "id": 37,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "mistr_a_marketka_039.md",
+            "xhtml": "mistr_a_marketka_039.xhtml",
+            "id": 38,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "mistr_a_marketka_040.md",
+            "xhtml": "mistr_a_marketka_040.xhtml",
+            "id": 39,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "mistr_a_marketka_041.md",
+            "xhtml": "mistr_a_marketka_041.xhtml",
+            "id": 40,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          }
+        ]
+      }
+    ],
+    "replacements": []
+  },
+  "epub": {
+    "metadata": {
+      "title": "Mistr a Markétka",
+      "identifier": "urn:uuid:e92cff43-a13a-429b-bf74-2ba86cb9461d",
+      "author": "Michail Bulgakov",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2022-03-08T10:32:04.682Z"
+    },
+    "chapters": [
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "mistr_a_marketka_001.md",
+        "xhtml": "mistr_a_marketka_001.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "mistr_a_marketka_002.md",
+        "xhtml": "mistr_a_marketka_002.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "mistr_a_marketka_003.md",
+        "xhtml": "mistr_a_marketka_003.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "mistr_a_marketka_004.md",
+        "xhtml": "mistr_a_marketka_004.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "mistr_a_marketka_005.md",
+        "xhtml": "mistr_a_marketka_005.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "mistr_a_marketka_006.md",
+        "xhtml": "mistr_a_marketka_006.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "mistr_a_marketka_007.md",
+        "xhtml": "mistr_a_marketka_007.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "mistr_a_marketka_008.md",
+        "xhtml": "mistr_a_marketka_008.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "mistr_a_marketka_009.md",
+        "xhtml": "mistr_a_marketka_009.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "mistr_a_marketka_010.md",
+        "xhtml": "mistr_a_marketka_010.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "mistr_a_marketka_011.md",
+        "xhtml": "mistr_a_marketka_011.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "mistr_a_marketka_012.md",
+        "xhtml": "mistr_a_marketka_012.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "mistr_a_marketka_013.md",
+        "xhtml": "mistr_a_marketka_013.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "mistr_a_marketka_014.md",
+        "xhtml": "mistr_a_marketka_014.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "mistr_a_marketka_015.md",
+        "xhtml": "mistr_a_marketka_015.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "mistr_a_marketka_016.md",
+        "xhtml": "mistr_a_marketka_016.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "mistr_a_marketka_017.md",
+        "xhtml": "mistr_a_marketka_017.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "mistr_a_marketka_018.md",
+        "xhtml": "mistr_a_marketka_018.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "mistr_a_marketka_019.md",
+        "xhtml": "mistr_a_marketka_019.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "mistr_a_marketka_020.md",
+        "xhtml": "mistr_a_marketka_020.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "mistr_a_marketka_021.md",
+        "xhtml": "mistr_a_marketka_021.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "mistr_a_marketka_022.md",
+        "xhtml": "mistr_a_marketka_022.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "mistr_a_marketka_023.md",
+        "xhtml": "mistr_a_marketka_023.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "mistr_a_marketka_024.md",
+        "xhtml": "mistr_a_marketka_024.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "mistr_a_marketka_025.md",
+        "xhtml": "mistr_a_marketka_025.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "mistr_a_marketka_026.md",
+        "xhtml": "mistr_a_marketka_026.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "mistr_a_marketka_027.md",
+        "xhtml": "mistr_a_marketka_027.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "mistr_a_marketka_028.md",
+        "xhtml": "mistr_a_marketka_028.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "mistr_a_marketka_029.md",
+        "xhtml": "mistr_a_marketka_029.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "mistr_a_marketka_030.md",
+        "xhtml": "mistr_a_marketka_030.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "mistr_a_marketka_031.md",
+        "xhtml": "mistr_a_marketka_031.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "mistr_a_marketka_032.md",
+        "xhtml": "mistr_a_marketka_032.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "mistr_a_marketka_033.md",
+        "xhtml": "mistr_a_marketka_033.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "mistr_a_marketka_034.md",
+        "xhtml": "mistr_a_marketka_034.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "mistr_a_marketka_035.md",
+        "xhtml": "mistr_a_marketka_035.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "mistr_a_marketka_036.md",
+        "xhtml": "mistr_a_marketka_036.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "mistr_a_marketka_037.md",
+        "xhtml": "mistr_a_marketka_037.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "mistr_a_marketka_038.md",
+        "xhtml": "mistr_a_marketka_038.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "mistr_a_marketka_039.md",
+        "xhtml": "mistr_a_marketka_039.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "mistr_a_marketka_040.md",
+        "xhtml": "mistr_a_marketka_040.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "mistr_a_marketka_041.md",
+        "xhtml": "mistr_a_marketka_041.xhtml"
+      }
+    ],
+    "resources": [
+      {
+        "type": "application/x-dtbncx+xml",
+        "href": "OEBPS/toc.ncx"
+      },
+      {
+        "type": "text/css",
+        "href": "OEBPS/Styles/mistr_a_ma_idstyles.css"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/image001_fmt.jpeg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/image002_fmt.jpeg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/obalka_mistr_a_marketk_fmt.jpeg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/upoutavka_eknihy_fmt.jpeg"
+      }
+    ],
+    "classes": [
+      "Hyperlink",
+      "MLP-citacni-str-rozdeleni",
+      "MLP-citat",
+      "MLP-citat-autor",
+      "MLP-dopis-podpis--I",
+      "MLP-licence-hypertext",
+      "MLP-licence-obrazek",
+      "MLP-licence-paragraf",
+      "MLP-licence-text",
+      "MLP-obrazky",
+      "MLP-text",
+      "MLP-text--0-12",
+      "MLP-text-bez1radku",
+      "MLP-text-bez1radku--0-12",
+      "MLP-text-bez1radku--12-0",
+      "MLP-text-uprostred",
+      "MLP-tiraz-autor-a-nazev",
+      "MLP-titulka-autor",
+      "MLP-titulka-nazev",
+      "MLP-titulka-prekladatel",
+      "MLP-uroven1-cast",
+      "MLP-uroven1-zvlastni-pripady",
+      "MLP-uroven2-kapitola",
+      "MLP-verse--I---12-12",
+      "MLP-znak-kurziva-11b",
+      "char-style-override-1",
+      "char-style-override-2",
+      "char-style-override-3",
+      "char-style-override-4",
+      "char-style-override-5",
+      "frame-1",
+      "frame-2",
+      "frame-3",
+      "para-style-override-1",
+      "para-style-override-2",
+      "para-style-override-3",
+      "para-style-override-4"
+    ],
+    "github": {
+      "user": "books-are-next",
+      "repo": "mistr-a-marketka"
+    },
+    "generatedAt": 1646735525340
+  }
+}
