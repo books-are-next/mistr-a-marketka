@@ -1,0 +1,353 @@
+{
+  "@context": "https://readium.org/webpub-manifest/context.jsonld",
+  "metadata": {
+    "@type": "http://schema.org/Book",
+    "title": "Mistr a Markétka",
+    "identifier": "urn:uuid:e92cff43-a13a-429b-bf74-2ba86cb9461d",
+    "author": "Michail Bulgakov",
+    "publisher": "Městská knihovna v Praze",
+    "language": "cs-CZ",
+    "modified": "2022-03-08T10:31:28.772Z",
+    "subject": "subject",
+    "generator": "Adobe InDesign",
+    "Sigil version": "0.9.9"
+  },
+  "readingOrder": [
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/mistr_a_marketka_001.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/mistr_a_marketka_002.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/mistr_a_marketka_003.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/mistr_a_marketka_004.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/mistr_a_marketka_005.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/mistr_a_marketka_006.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/mistr_a_marketka_007.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/mistr_a_marketka_008.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/mistr_a_marketka_009.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/mistr_a_marketka_010.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/mistr_a_marketka_011.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/mistr_a_marketka_012.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/mistr_a_marketka_013.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/mistr_a_marketka_014.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/mistr_a_marketka_015.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/mistr_a_marketka_016.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/mistr_a_marketka_017.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/mistr_a_marketka_018.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/mistr_a_marketka_019.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/mistr_a_marketka_020.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/mistr_a_marketka_021.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/mistr_a_marketka_022.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/mistr_a_marketka_023.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/mistr_a_marketka_024.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/mistr_a_marketka_025.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/mistr_a_marketka_026.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/mistr_a_marketka_027.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/mistr_a_marketka_028.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/mistr_a_marketka_029.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/mistr_a_marketka_030.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/mistr_a_marketka_031.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/mistr_a_marketka_032.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/mistr_a_marketka_033.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/mistr_a_marketka_034.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/mistr_a_marketka_035.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/mistr_a_marketka_036.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/mistr_a_marketka_037.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/mistr_a_marketka_038.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/mistr_a_marketka_039.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/mistr_a_marketka_040.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/mistr_a_marketka_041.xhtml"
+    }
+  ],
+  "resources": [
+    {
+      "type": "application/x-dtbncx+xml",
+      "href": "OEBPS/toc.ncx"
+    },
+    {
+      "type": "text/css",
+      "href": "OEBPS/Styles/mistr_a_ma_idstyles.css"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image001_fmt.jpeg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image002_fmt.jpeg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/obalka_mistr_a_marketk_fmt.jpeg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/upoutavka_eknihy_fmt.jpeg"
+    }
+  ],
+  "toc": [
+    {
+      "title": "I",
+      "children": [
+        {
+          "title": "1 Nikdy se nepouštějte do řeči s neznámými lidmi",
+          "href": "OEBPS/Text/mistr_a_marketka_007.xhtml#toc_marker-1-1"
+        },
+        {
+          "title": "2 Pilát Pontský",
+          "href": "OEBPS/Text/mistr_a_marketka_008.xhtml#toc_marker-1-2"
+        },
+        {
+          "title": "3 Sedmý důkaz",
+          "href": "OEBPS/Text/mistr_a_marketka_009.xhtml#toc_marker-1-3"
+        },
+        {
+          "title": "4 Pronásledování",
+          "href": "OEBPS/Text/mistr_a_marketka_010.xhtml#toc_marker-1-4"
+        },
+        {
+          "title": "5 Skandál v Gribojedovovi",
+          "href": "OEBPS/Text/mistr_a_marketka_011.xhtml#toc_marker-1-5"
+        },
+        {
+          "title": "6 Schizofrenie, jak už bylo řečeno",
+          "href": "OEBPS/Text/mistr_a_marketka_012.xhtml#toc_marker-1-6"
+        },
+        {
+          "title": "7 Podezřelý byt",
+          "href": "OEBPS/Text/mistr_a_marketka_013.xhtml#toc_marker-1-7"
+        },
+        {
+          "title": "8 Souboj profesora s básníkem",
+          "href": "OEBPS/Text/mistr_a_marketka_014.xhtml#toc_marker-1-8"
+        },
+        {
+          "title": "9 Korovjevovy kousky",
+          "href": "OEBPS/Text/mistr_a_marketka_015.xhtml#toc_marker-1-9"
+        },
+        {
+          "title": "10 Zprávy z Jalty",
+          "href": "OEBPS/Text/mistr_a_marketka_016.xhtml#toc_marker-1-10"
+        },
+        {
+          "title": "11 Ivanovo rozdvojení",
+          "href": "OEBPS/Text/mistr_a_marketka_017.xhtml#toc_marker-1-11"
+        },
+        {
+          "title": "12 Černá magie a jak byla odhalena",
+          "href": "OEBPS/Text/mistr_a_marketka_018.xhtml#toc_marker-1-12"
+        },
+        {
+          "title": "13 Objevil se hrdina",
+          "href": "OEBPS/Text/mistr_a_marketka_019.xhtml#toc_marker-1-13"
+        },
+        {
+          "title": "14 Sláva kohoutovi!",
+          "href": "OEBPS/Text/mistr_a_marketka_020.xhtml#toc_marker-1-14"
+        },
+        {
+          "title": "15 Sen Nikanora Ivanoviče",
+          "href": "OEBPS/Text/mistr_a_marketka_021.xhtml#toc_marker-1-15"
+        },
+        {
+          "title": "16 Poprava",
+          "href": "OEBPS/Text/mistr_a_marketka_022.xhtml#toc_marker-1-16"
+        },
+        {
+          "title": "17 Bláznivý den",
+          "href": "OEBPS/Text/mistr_a_marketka_023.xhtml#toc_marker-1-17"
+        },
+        {
+          "title": "18 Neúspěšní návštěvníci",
+          "href": "OEBPS/Text/mistr_a_marketka_024.xhtml#toc_marker-1-18"
+        }
+      ],
+      "href": "OEBPS/Text/mistr_a_marketka_006.xhtml#toc_marker-1"
+    },
+    {
+      "title": "II",
+      "children": [
+        {
+          "title": "19 Markétka",
+          "href": "OEBPS/Text/mistr_a_marketka_026.xhtml#toc_marker-2-1"
+        },
+        {
+          "title": "20 Azazelův krém",
+          "href": "OEBPS/Text/mistr_a_marketka_027.xhtml#toc_marker-2-2"
+        },
+        {
+          "title": "21 Let",
+          "href": "OEBPS/Text/mistr_a_marketka_028.xhtml#toc_marker-2-3"
+        },
+        {
+          "title": "22 V záři voskovic",
+          "href": "OEBPS/Text/mistr_a_marketka_029.xhtml#toc_marker-2-4"
+        },
+        {
+          "title": "23 Gala ples u satana",
+          "href": "OEBPS/Text/mistr_a_marketka_030.xhtml#toc_marker-2-5"
+        },
+        {
+          "title": "24 Únos Mistra",
+          "href": "OEBPS/Text/mistr_a_marketka_031.xhtml#toc_marker-2-6"
+        },
+        {
+          "title": "25 Jak se prokurátor pokoušel zachránit Jidáše Iškariotského",
+          "href": "OEBPS/Text/mistr_a_marketka_032.xhtml#toc_marker-2-7"
+        },
+        {
+          "title": "26 Pohřeb",
+          "href": "OEBPS/Text/mistr_a_marketka_033.xhtml#toc_marker-2-8"
+        },
+        {
+          "title": "27 Zkáza bytu č. 50",
+          "href": "OEBPS/Text/mistr_a_marketka_034.xhtml#toc_marker-2-9"
+        },
+        {
+          "title": "28 Poslední dobrodružství dlouhána Korovjeva a kocoura Kňoura",
+          "href": "OEBPS/Text/mistr_a_marketka_035.xhtml#toc_marker-2-10"
+        },
+        {
+          "title": "29 Osud Mistra a Markétky je zpečetěn",
+          "href": "OEBPS/Text/mistr_a_marketka_036.xhtml#toc_marker-2-11"
+        },
+        {
+          "title": "30 Je čas! Je čas!",
+          "href": "OEBPS/Text/mistr_a_marketka_037.xhtml#toc_marker-2-12"
+        },
+        {
+          "title": "31 Na Vrabčích horách",
+          "href": "OEBPS/Text/mistr_a_marketka_038.xhtml#toc_marker-2-13"
+        },
+        {
+          "title": "32 Odpuštění a věčný klid",
+          "href": "OEBPS/Text/mistr_a_marketka_039.xhtml#toc_marker-2-14"
+        }
+      ],
+      "href": "OEBPS/Text/mistr_a_marketka_025.xhtml#toc_marker-2"
+    },
+    {
+      "title": "Epilog",
+      "href": "OEBPS/Text/mistr_a_marketka_040.xhtml#toc_marker-3"
+    }
+  ]
+}

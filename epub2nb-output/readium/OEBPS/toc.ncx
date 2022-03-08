@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+   "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="dtb:uid" content="urn:uuid:e92cff43-a13a-429b-bf74-2ba86cb9461d"/>
+    <meta name="dtb:depth" content="2"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>Mistr a Markétka</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>I</text>
+      </navLabel>
+      <content src="Text/mistr_a_marketka_006.xhtml#toc_marker-1"/>
+      <navPoint id="navPoint-2" playOrder="2">
+        <navLabel>
+          <text>1 Nikdy se nepouštějte do řeči s neznámými lidmi</text>
+        </navLabel>
+        <content src="Text/mistr_a_marketka_007.xhtml#toc_marker-1-1"/>
+      </navPoint>
+      <navPoint id="navPoint-3" playOrder="3">
+        <navLabel>
+          <text>2 Pilát Pontský</text>
+        </navLabel>
+        <content src="Text/mistr_a_marketka_008.xhtml#toc_marker-1-2"/>
+      </navPoint>
+      <navPoint id="navPoint-4" playOrder="4">
+        <navLabel>
+          <text>3 Sedmý důkaz</text>
+        </navLabel>
+        <content src="Text/mistr_a_marketka_009.xhtml#toc_marker-1-3"/>
+      </navPoint>
+      <navPoint id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>4 Pronásledování</text>
+        </navLabel>
+        <content src="Text/mistr_a_marketka_010.xhtml#toc_marker-1-4"/>
+      </navPoint>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>5 Skandál v Gribojedovovi</text>
+        </navLabel>
+        <content src="Text/mistr_a_marketka_011.xhtml#toc_marker-1-5"/>
+      </navPoint>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>6 Schizofrenie, jak už bylo řečeno</text>
+        </navLabel>
+        <content src="Text/mistr_a_marketka_012.xhtml#toc_marker-1-6"/>
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>7 Podezřelý byt</text>
+        </navLabel>
+        <content src="Text/mistr_a_marketka_013.xhtml#toc_marker-1-7"/>
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>8 Souboj profesora s básníkem</text>
+        </navLabel>
+        <content src="Text/mistr_a_marketka_014.xhtml#toc_marker-1-8"/>
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>9 Korovjevovy kousky</text>
+        </navLabel>
+        <content src="Text/mistr_a_marketka_015.xhtml#toc_marker-1-9"/>
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>10 Zprávy z Jalty</text>
+        </navLabel>
+        <content src="Text/mistr_a_marketka_016.xhtml#toc_marker-1-10"/>
+      </navPoint>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>11 Ivanovo rozdvojení</text>
+        </navLabel>
+        <content src="Text/mistr_a_marketka_017.xhtml#toc_marker-1-11"/>
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>12 Černá magie a jak byla odhalena</text>
+        </navLabel>
+        <content src="Text/mistr_a_marketka_018.xhtml#toc_marker-1-12"/>
+      </navPoint>
+      <navPoint id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>13 Objevil se hrdina</text>
+        </navLabel>
+        <content src="Text/mistr_a_marketka_019.xhtml#toc_marker-1-13"/>
+      </navPoint>
+      <navPoint id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>14 Sláva kohoutovi!</text>
+        </navLabel>
+        <content src="Text/mistr_a_marketka_020.xhtml#toc_marker-1-14"/>
+      </navPoint>
+      <navPoint id="navPoint-16" playOrder="16">
+        <navLabel>
+          <text>15 Sen Nikanora Ivanoviče</text>
+        </navLabel>
+        <content src="Text/mistr_a_marketka_021.xhtml#toc_marker-1-15"/>
+      </navPoint>
+      <navPoint id="navPoint-17" playOrder="17">
+        <navLabel>
+          <text>16 Poprava</text>
+        </navLabel>
+        <content src="Text/mistr_a_marketka_022.xhtml#toc_marker-1-16"/>
+      </navPoint>
+      <navPoint id="navPoint-18" playOrder="18">
+        <navLabel>
+          <text>17 Bláznivý den</text>
+        </navLabel>
+        <content src="Text/mistr_a_marketka_023.xhtml#toc_marker-1-17"/>
+      </navPoint>
+      <navPoint id="navPoint-19" playOrder="19">
+        <navLabel>
+          <text>18 Neúspěšní návštěvníci</text>
+        </navLabel>
+        <content src="Text/mistr_a_marketka_024.xhtml#toc_marker-1-18"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-20" playOrder="20">
+      <navLabel>
+        <text>II</text>
+      </navLabel>
+      <content src="Text/mistr_a_marketka_025.xhtml#toc_marker-2"/>
+      <navPoint id="navPoint-21" playOrder="21">
+        <navLabel>
+          <text>19 Markétka</text>
+        </navLabel>
+        <content src="Text/mistr_a_marketka_026.xhtml#toc_marker-2-1"/>
+      </navPoint>
+      <navPoint id="navPoint-22" playOrder="22">
+        <navLabel>
+          <text>20 Azazelův krém</text>
+        </navLabel>
+        <content src="Text/mistr_a_marketka_027.xhtml#toc_marker-2-2"/>
+      </navPoint>
+      <navPoint id="navPoint-23" playOrder="23">
+        <navLabel>
+          <text>21 Let</text>
+        </navLabel>
+        <content src="Text/mistr_a_marketka_028.xhtml#toc_marker-2-3"/>
+      </navPoint>
+      <navPoint id="navPoint-24" playOrder="24">
+        <navLabel>
+          <text>22 V záři voskovic</text>
+        </navLabel>
+        <content src="Text/mistr_a_marketka_029.xhtml#toc_marker-2-4"/>
+      </navPoint>
+      <navPoint id="navPoint-25" playOrder="25">
+        <navLabel>
+          <text>23 Gala ples u satana</text>
+        </navLabel>
+        <content src="Text/mistr_a_marketka_030.xhtml#toc_marker-2-5"/>
+      </navPoint>
+      <navPoint id="navPoint-26" playOrder="26">
+        <navLabel>
+          <text>24 Únos Mistra</text>
+        </navLabel>
+        <content src="Text/mistr_a_marketka_031.xhtml#toc_marker-2-6"/>
+      </navPoint>
+      <navPoint id="navPoint-27" playOrder="27">
+        <navLabel>
+          <text>25 Jak se prokurátor pokoušel zachránit Jidáše Iškariotského</text>
+        </navLabel>
+        <content src="Text/mistr_a_marketka_032.xhtml#toc_marker-2-7"/>
+      </navPoint>
+      <navPoint id="navPoint-28" playOrder="28">
+        <navLabel>
+          <text>26 Pohřeb</text>
+        </navLabel>
+        <content src="Text/mistr_a_marketka_033.xhtml#toc_marker-2-8"/>
+      </navPoint>
+      <navPoint id="navPoint-29" playOrder="29">
+        <navLabel>
+          <text>27 Zkáza bytu č. 50</text>
+        </navLabel>
+        <content src="Text/mistr_a_marketka_034.xhtml#toc_marker-2-9"/>
+      </navPoint>
+      <navPoint id="navPoint-30" playOrder="30">
+        <navLabel>
+          <text>28 Poslední dobrodružství dlouhána Korovjeva a kocoura Kňoura</text>
+        </navLabel>
+        <content src="Text/mistr_a_marketka_035.xhtml#toc_marker-2-10"/>
+      </navPoint>
+      <navPoint id="navPoint-31" playOrder="31">
+        <navLabel>
+          <text>29 Osud Mistra a Markétky je zpečetěn</text>
+        </navLabel>
+        <content src="Text/mistr_a_marketka_036.xhtml#toc_marker-2-11"/>
+      </navPoint>
+      <navPoint id="navPoint-32" playOrder="32">
+        <navLabel>
+          <text>30 Je čas! Je čas!</text>
+        </navLabel>
+        <content src="Text/mistr_a_marketka_037.xhtml#toc_marker-2-12"/>
+      </navPoint>
+      <navPoint id="navPoint-33" playOrder="33">
+        <navLabel>
+          <text>31 Na Vrabčích horách</text>
+        </navLabel>
+        <content src="Text/mistr_a_marketka_038.xhtml#toc_marker-2-13"/>
+      </navPoint>
+      <navPoint id="navPoint-34" playOrder="34">
+        <navLabel>
+          <text>32 Odpuštění a věčný klid</text>
+        </navLabel>
+        <content src="Text/mistr_a_marketka_039.xhtml#toc_marker-2-14"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-35" playOrder="35">
+      <navLabel>
+        <text>Epilog</text>
+      </navLabel>
+      <content src="Text/mistr_a_marketka_040.xhtml#toc_marker-3"/>
+    </navPoint>
+  </navMap>
+</ncx>
