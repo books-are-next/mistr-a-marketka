@@ -5,7 +5,7 @@
       "identifier": "urn:uuid:e92cff43-a13a-429b-bf74-2ba86cb9461d",
       "author": "Michail Bulgakov",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2022-03-08T10:31:28.772Z"
+      "modified": "2022-03-08T10:32:04.682Z"
     },
     "chapters": [
       {
@@ -324,6 +324,6 @@
       "user": "books-are-next",
       "repo": "mistr-a-marketka"
     },
-    "generatedAt": 1646735489428
+    "generatedAt": 1646735525340
   }
 }
