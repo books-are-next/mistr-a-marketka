@@ -52,7 +52,7 @@
             "filename": "mistr_a_marketka_002.md",
             "xhtml": "mistr_a_marketka_002.xhtml",
             "id": 1,
-            "role": "break",
+            "role": "promo",
             "listType": "plain",
             "inToc": false,
             "hungry": false,
@@ -568,8 +568,7 @@
           }
         ]
       }
-    ],
-    "replacements": []
+    ]
   },
   "epub": {
     "metadata": {
@@ -577,7 +576,7 @@
       "identifier": "urn:uuid:e92cff43-a13a-429b-bf74-2ba86cb9461d",
       "author": "Michail Bulgakov",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2022-03-08T10:50:55.173Z"
+      "modified": "2019-04-02T00:00:00.000Z"
     },
     "chapters": [
       {
@@ -779,7 +778,7 @@
         "xhtml": "mistr_a_marketka_033.xhtml"
       },
       {
-        "titleSuggest": "27 Zkáza bytu č. 50",
+        "titleSuggest": "27 Zkáza bytu č\\. 50",
         "subtitleSuggest": "",
         "filename": "mistr_a_marketka_034.md",
         "xhtml": "mistr_a_marketka_034.xhtml"
@@ -896,6 +895,6 @@
       "user": "books-are-next",
       "repo": "mistr-a-marketka"
     },
-    "generatedAt": 1646736656024
+    "generatedAt": 1652351460063
   }
 }

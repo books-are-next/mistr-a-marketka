@@ -14,7 +14,7 @@ meta:
   edition: beletrie
   publisherShort: mkp
 readingOrder:
-  - mistr_a_marketka_002.html
+  - promo.html
   - mistr_a_marketka_005.html
   - mistr_a_marketka_006.html
   - mistr_a_marketka_007.html

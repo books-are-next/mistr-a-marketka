@@ -1,5 +1,5 @@
 ---
-title: 27 Zkáza bytu č. 50
+title: 27 Zkáza bytu č\. 50
 contentType: prose
 ---
 
