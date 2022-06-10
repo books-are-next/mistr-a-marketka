@@ -3,6 +3,8 @@ title: 11 Ivanovo rozdvojení
 contentType: prose
 ---
 
+<section>
+
 Les na protějším břehu řeky, ještě před hodinou projasněný májovým sluncem, zešedl, rozmazal se a nakonec docela zmizel.
 
 Za oknem visela dešťová clona. Na obloze občas vyšlehovala ohnivá vlákna, nebe pukalo a pokoj nemocného se ozářil hrozivým rozeklaným světlem.
@@ -50,3 +52,5 @@ Jako hlupák!“ pronesl zřetelně bas, který nepatřil prvnímu ani druhému 
 Básník se kupodivu pro toho hlupáka neurazil, dokonce ho to příjemně překvapilo, a usmál se v polospánku. Cítil, jak se k němu krade sen, a představil si palmu na sloní noze, kolem se mihl kocour, už z něho nešla hrůza, naopak byl legrační… Zkrátka pacient pomalu usínal, ale vtom se mříž nehlučně odsunula a na balkóně stanul tajemný přízrak, skrýval se před měsíčním svitem a hrozil prstem Ivanovi.
 
 Básník se nebojácně posadil na posteli a rozeznal v přízraku muže. Neznámý s prstem na ústech zasykl: „Psst!“
+
+</section>

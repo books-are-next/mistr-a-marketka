@@ -3,6 +3,8 @@ title: 19 Markétka
 contentType: prose
 ---
 
+<section>
+
 Čtenáři, za mnou! Kdo říká, že na světě neexistuje pravá láska, věrná až za hrob? Ať tomu lháři vyříznou jeho proradný jazyk! Čtenáři, za mnou! Neváhej a následuj mě, já ti takovou lásku ukážu.
 
 Ne, Mistr se mýlil, když si v půlnoční chvíli stěžoval Ivanovi v nemocnici, že na něj zapomněla. To se nemohlo stát. Samozřejmě že na něj nezapomněla.
@@ -274,3 +276,5 @@ Markétka pevně stiskla v ruce krabičku a pokračovala:
 „Jé!“ zavřeštěl náhle Azazelo a ukazoval kamsi do dálky, oči vytřeštěné.
 
 Markétka se zadívala na parkovou mříž, ale nic pozoruhodného neobjevila. Otočila se tázavě k svému sousedovi, co ho tak vyplašilo, ale bylo pozdě: záhadný chlapík zmizel. Spěšně sáhla do kabelky, kam těsně předtím schovala krabičku, a přesvědčila se, že je na místě. Na další úvahy už nezbyl čas, a tak Markéta kvapně opustila Alexandrinský park.
+
+</section>

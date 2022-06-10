@@ -3,6 +3,8 @@ title: 9 Korovjevovy kousky
 contentType: prose
 ---
 
+<section>
+
 Nikanor Ivanovič Bosý, předseda domovní správy v čísle 302b v Sadové ulici, kde bydlel nebožtík Berlioz, nevěděl samou starostí, kde mu hlava stojí. Vypuklo to včerejší noci, ze středy na čtvrtek.
 
 O půlnoci, jak jsme už předeslali, se dostavila do domu komise, ve které byl Želdybin, vyvolala si Nikanora Ivanoviče a sdělila mu, že Berlioz zemřel, a společně s ním se odebrala do bytu číslo 50.
@@ -192,3 +194,5 @@ Mezitím Timofej Kvascov střídavě nakukoval klíčovou dírkou a přikládal
 Za pět minut nájemníci, kteří byli zrovna na dvoře, viděli Nikanora Ivanoviče, jak kráčí provázen dvěma muži přímo k domovním vratům. Povídalo se, že předseda byl bílý jako stěna, opile vrávoral a něco blekotal.
 
 Za další hodinu vstoupil do bytu číslo 11 neznámý muž právě v okamžiku, kdy rozzářený Timofej Kondraťjevič vykládal ostatním nájemníkům, jak předsedu sbalili, posuňkem vylákal Kvascova do předsíně, něco mu pošeptal a pak oba zmizeli.
+
+</section>

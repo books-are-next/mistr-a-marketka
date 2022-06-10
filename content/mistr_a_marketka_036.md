@@ -3,6 +3,8 @@ title: "29 Osud Mistra a\_Markétky je zpečetěn"
 contentType: prose
 ---
 
+<section>
+
 Při západu slunce stáli vysoko nad městem na kamenné terase jedné z nejpůvabnějších moskevských budov, postavené přibližně před sto padesáti lety, dva: Woland a Azazelo. Zdola z ulice byli skryti před dotěrnými pohledy balustrádou se sádrovými vázami a květy a naopak, oni sami měli před sebou celé město.
 
 Woland seděl na skládací stoličce, oblečen ve své černé říze. Dlouhý a silný kord trčel vzhůru mezi dvěma puklými dlaždicemi jako sluneční hodiny. Jeho stín se pomalu, ale jistě prodlužoval a plazil se k černým ďáblovým pantoflím. Mág se krčil na stoličce, jednu nohu pod sebou, podpíral si pěstí špičatou bradu a vytrvale sledoval shluk paláců, vysokých činžáků i malých dřevěných baráčků, určených k zbourání.
@@ -132,3 +134,5 @@ Woland vstal, přistoupil k zábradlí a dlouho mlčky hleděl do dálky, obr�
 Bouře, o které mluvil Woland, už byla na obzoru. Na západě houstl černý mrak a zastínil zprvu polovinu, pak celé slunce. Na terase se ochladilo a zanedlouho se úplně setmělo.
 
 Tma se přihnala od západu a zahalila obrovské město. Zmizely mosty i paláce a mrak obestřel celé město, až se zdálo, že zmizelo z povrchu zemského. Oblohu proťal blesk a prostor se otřásl hromovým rachotem. Rozpoutala se bouře a Wolandova černá postava splynula s tmou.
+
+</section>

@@ -3,6 +3,8 @@ title: 6 Schizofrenie, jak už bylo řečeno
 contentType: prose
 ---
 
+<section>
+
 Když do čekárny vyhlášené psychiatrické kliniky, dostavěné ne­dávno na břehu řeky poblíž Moskvy, vešel muž v bílém plášti, se špičatou bradkou, bylo půl druhé v noci. Tři ošetřovatelé nespouštěli pohled z Bezprizorného, který seděl na pohovce vedle krajně rozrušeného básníka Sviňkova. Ležela tu i hromádka utěrek, jimiž číšníci Ivana spoutali. Bezprizorný měl ruce i nohy volné.
 
 Při pohledu na vcházejícího lékaře Sviňkov zbledl, odkašlal si a zmohl se na nesmělé:
@@ -210,3 +212,5 @@ Pirát se zatvářil účastně a zašeptal:
 Za čtvrt hodiny seděl Sviňkov zcela osamělý, ošklíbal se nad línem, pil jednu vodku za druhou a připouštěl i chápal, že v jeho životě se už nedá zhola nic napravit a že zbývá jen jediné: zapomenout.
 
 Ztratil celou noc, zatímco ostatní debužírovali, a bylo mu jasné, že ji nelze přivolat zpátky. Stačilo zvednout hlavu od lampy a zahledět se na oblohu, abyste poznali, že noc nenávratně zmizela. Číšníci kvapně strhávali ubrusy ze stolů a vyspalí kocouři čile šmejdili kolem terasy. Na básníka nezadržitelně útočil den.
+
+</section>

@@ -3,6 +3,8 @@ title: 30 Je čas! Je čas!
 contentType: prose
 ---
 
+<section>
+
 „Víš, když jsi včera v noci usnul, četla jsem o tmě, která se přihnala od Středozemního moře… Ještě teď před sebou vidím zlaté okřídlené modly a pořád na ně musím myslet… Zdá se, že se žene bouře. Cítíš, jak se ochladilo?“ zeptala se Markétka.
 
 „To všecko je moc hezké,“ odpovídal Mistr, kouřil a odháněl dým rukou, „zlaté modly… hm… bůh s nimi… jenom nechápu, co bude dál!“
@@ -262,3 +264,5 @@ Ale ta už vcházela s napůl tázavým, napůl starostlivým výrazem.
 „Váš soused umřel,“ vyhrkla. Ta dobromyslná žena neměla odvahu lhát. Ozářená bleskem polekaně Ivana sledovala. Ale nemocný zůstal klidný, jenom zvedl významně ukazovák a řekl:
 
 „Já to věděl! Ujišťuju vás, Praskovjo Fjodorovno, že ve městě v téže chvíli zemřel ještě jeden člověk. Dokonce vím kdo,“ a tajemně se usmál… „je to žena!“
+
+</section>

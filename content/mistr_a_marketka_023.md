@@ -3,6 +3,8 @@ title: 17 Bláznivý den
 contentType: prose
 ---
 
+<section>
+
 Hned nazítří po neblahém představení, totiž v pátek ráno, celý personál Varieté, to jest hlavní účetní Vasilij Stěpanovič Lastočkin, dále dva účtaři, tři písařky, obě pokladní, posílkáři, uvaděči a uklízečky – zkrátka všichni, kdo byli ve službě, místo obvyklé činnosti byli vyložení v oknech směřujících do Sadové ulice a sledovali, co se děje dole před branami Varieté. Postupovala tu hlemýždím tempem dvojitá, několikatisícová fronta, která se táhla až na Kudrinské náměstí. V čele stálo asi dvacet šmelinářů, chvalně známých v moskevských divadelních kruzích.
 
 Ve frontě to vřelo, až se kolemjdoucí zastavovali, a na pořadu byly vzrušující historky o včerejší neobvyklé seanci černé magie. Tyto historky zcela vyváděly z míry účetního Vasilije Stěpanoviče, který večer nebyl v divadle. Biletáři vykládali neuvěřitelné věci, například že po včerejším senzačním představení některé dámy běhaly polonahé po ulici a podobně. Skromný a zakřiknutý Lastočkin jenom překvapeně mrkal, když se dovídal o všech těch divech, a zaboha nevěděl, co má podniknout. Přitom bylo na něm, aby zasáhl jako služebně nejstarší z celého osazenstva Varieté.
@@ -149,37 +151,53 @@ Když se vyplakala, utřela si slečna oči, ale najednou sebou škubla a zaje�
 
 „Už zase!“ A z ničeho nic spustila roztřeseným sopránem:
 
-  
+</section>
+
+<section>
 
 _Nejkrásnější moře je Bajkal můj…_
 
-  
+</section>
+
+<section>
 
 Na schodišti se objevil posílkář, komusi zahrozil pěstí a připojil se k dívce ponurým bezvýrazným barytonem:
 
-  
+</section>
+
+<section>
 
 _Nejkrásnější loď je na ryby bečka…_
 
-  
+</section>
+
+<section>
 
 Přidaly se vzdálené hlasy, sbor sílil, až nakonec píseň hřměla ze všech koutů pobočky. V nejbližší kanceláři č. 6, kde byla účtárna, vynikal nad ostatní čísi mohutný, trochu vypitý bas. Jako doprovod sloužila kulometná palba telefonních přístrojů.
 
-  
+</section>
+
+<section>
 
 _Hej, severáku, jen do vlnek duj…,_
 
-  
+</section>
+
+<section>
 
 burácel posílkář na schodišti.
 
 Dívce tekly po tváři proudem slzy, snažila se zatnout zuby, ale ústa se jí samočinně otvírala a dívka pokračovala o oktávu výš než posílkář:
 
-  
+</section>
+
+<section>
 
 _Ať krátkou pouť plavec přečká._
 
-  
+</section>
+
+<section>
 
 Oněmělé návštěvníky překvapovalo, že zpěváci roztroušení po celé budově jsou dokonale sezpívaní, jako by stáli na jednom místě a nespouštěli oči z neviditelného dirigenta.
 
@@ -264,3 +282,5 @@ Lastočkin mžikem vyplnil příslušné rubriky přesně podle předpisu a opa
 Před jeho vyděšenými zraky se míhaly cizí bankovky: byl tu svazek kanadských dolarů, anglických liber, holandských guldenů, lotyšských lat, estonských korun…
 
 „To je jeden z těch kouzelníků z Varieté!“ zahřměl nad strnulým účetním hrozivý hlas a Vasilije Stěpanoviče na místě zatkli.
+
+</section>
