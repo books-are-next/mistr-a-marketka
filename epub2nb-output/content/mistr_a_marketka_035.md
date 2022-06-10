@@ -3,6 +3,8 @@ title: "28 Poslední dobrodružství dlouhána Korovjeva a\_kocoura Kňoura"
 contentType: prose
 ---
 
+<section>
+
 Nikdo nedovede s určitostí říct, zda vyděšení nájemníci začarovaného domu v Sadové ulici skutečně zahlédli tři temné postavy, nebo zda se jim to jen zdálo. Stejně tak nikdo nedokáže uhodnout, kam mířily. Nevíme ani, kde se rozdělily, pouze víme, že asi čtvrt hodiny po požáru se vynořil u skleněných lítacích dveří přepychového obchodu na Smolenském rynku, kde se prodávalo jen za dolary, dlouhán v kostkovaném obleku a s ním mohutný černý kocour. Kostkovaný rozrážel dav a prodíral se ke dveřím, kde mu zastoupil cestu vrátný, vyzáblý mrňous, tvářil se krajně nepřátelsky a vybafl podrážděně:
 
 „Kocouři sem nesmí!“
@@ -220,3 +222,5 @@ Ostatně, brzy byli tohoto požitku zbaveni. Z kuchyně vyšli na terasu energi
 Za několik vteřin po asfaltových cestičkách vedoucích k zeleným vratům a dál na bulvár, odkud se ve středu večer zjevil Ivan jako nikým nepochopený anděl zkázy, teď prchali napůl hladoví spisovatelé, vyrušení od oběda, Sofie Pavlovna i manželé Petrakovovi.
 
 Uprostřed zkázy stál pevně jako skála duchapřítomný Archibald Archibaldovič, který prozíravě vyklouzl postranním vchodem a připomínal kapitána, který opouští hořící loď jako poslední. Měl na sobě letní plášť s hedvábnou podšívkou a pod paždí svíral dva lososí hřbety.
+
+</section>

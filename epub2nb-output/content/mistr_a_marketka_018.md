@@ -3,6 +3,8 @@ title: "12 Černá magie a\_jak byla odhalena"
 contentType: prose
 ---
 
+<section>
+
 Pidimuž v děravé žluté buřince a s malinovým bambulovitým nosem, oblečený v kostkovaných kalhotách a lakýrkách, vyjel na scénu Varieté na obyčejném kole. Za zvuků foxtrotu opsal kruh a pak spustil vítězoslavný pokřik, až se kolo zvedlo na zadní. Pokračoval v jízdě pouze na zadním kole, pak se překulil vzhůru nohama a povedlo se mu v jízdě odšroubovat přední kolo a poslat ho za kulisy. Dál se projížděl na zadním kole a šlapal rukama.
 
 Na vysoké kovové tyči s jedním kolem a se sedlem na vrcholu vjela na scénu plnoštíhlá blondýnka v trikotu a sukni poseté stříbrnými hvězdami a začala kroužit kolem dokola. Při každém setkání na ni mrňous přátelsky pokřikoval a nohou smekal svou buřinku.
@@ -281,15 +283,21 @@ Ztumpachovělý dirigent bez rozmýšlení mechanicky mávl taktovkou a hudebn�
 
 Jednu chvíli se zdálo, jako by se odkudsi vynořila zapomenutá, skoro nesrozumitelná pokulhávající, ale bujará slova pochodu, která se rozléhala kdysi dávno pod hvězdnatým jižním nebem v jakémsi šantánu:
 
-  
+</section>
+
+<section>
 
 _Jeho blahorodí  
 trpělo na domácí zvířata.  
 Proto tak často brávalo  
 v ochranu čupr děvčata!_
 
-  
+</section>
+
+<section>
 
 A možná že to nebyla ta pravá slova, ale jiná košilatá na známou melodii. Na tom nezáleží, důležité je, že po tom všem vypuklo ve Varieté něco jako boží dopuštění. K Semplejarovově lóži se rozběhli milicionáři, zvědavci lezli přes zábradlí, šířily se výbuchy nelidského smíchu a zběsilé výkřiky, přehlušované třeskotem činelů z orchestru.
 
 Scéna se náhle vyprázdnila a podfukář Fagot i drzé kocouřisko jako by se do země propadli, stejně jako předtím mág v křesle s vyrudlým potahem.
+
+</section>

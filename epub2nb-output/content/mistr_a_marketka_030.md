@@ -3,6 +3,8 @@ title: "23 Gala ples u\_satana"
 contentType: prose
 ---
 
+<section>
+
 Přikvačila půlnoc, a proto si museli pospíšit. Markétka jako ve snách sledovala, co se kolem děje. Zapamatovala si svíce a bazén vykládaný drahokamy. Ocitla se na dně a Hela s novou pomocnicí Natašou ji polévaly jakousi vřelou, hustou a rudou tekutinou. Ucítila na rtech slanou chuť a domyslela si, že ji omývají krví. Krvavou záplavu vystřídala jiná, stejně hustá, průzračná a narůžovělá – Markétě se zatočila hlava od růžového oleje. Pak ji položily na křišťálové lože a třely ji velikánskými zelenými lupeny, až se celá leskla.
 
 Vtom vtrhl dovnitř kocour a začal vydatně pomáhat. Usedl na bobek u Markétiných nohou, masíroval jí chodidla a tvářil se jako čistič bot na ulici.
@@ -244,3 +246,5 @@ Markétě se zatočila hlava, až se zapotácela, dotkla se rty chladivého okra
 „Žádný strach, královno… Nebojte se, krev už dávno vsákla do země. Na místě, kde byla prolita, se už dnes nalévají vinné hrozny.“
 
 Zavřela oči a napila se. Cítila, jak se jí v žilách po sladkém moku rozproudila krev, a znělo jí v uších. Zaslechla pronikavé kokrhání a pak břeskný pochod. Hosté v hloučcích postupně ztráceli svou podobu. Ofrakovaní pánové i jejich dámy se proměnili v hromádky prachu. Před Markétinýma očima zachvátilo práchnivění celý sál a kolem se šířil hnilobný pach. Sloupy se rozpadly, pohasla světla, prostor se smrskl, zmizely tulipány i fontány. Znovu se vynořil salón zlatnice a z pootevřených dveří vedlejšího pokoje se linul pruh světla. Markétka tam zamířila.
+
+</section>

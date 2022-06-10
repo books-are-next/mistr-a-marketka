@@ -3,6 +3,8 @@ title: Epilog
 contentType: prose
 ---
 
+<section>
+
 Naše zvědavost nám nedovolí, abychom nepátrali, co se dělo dál v Moskvě po onom sobotním večeru, kdy při slunce západu Woland opustil město a zmizel se svitou z Vrabčích hor.
 
 Nechci se zmiňovat, že ještě dlouho potom se po městě lavinovitě šířily ty nejfantastičtější zprávy, které se donesly do těch nejvzdálenějších koutů země. Nehodlám je ani opakovat, člověku je z nich zrovna mdlo.
@@ -163,6 +165,10 @@ Měsíc běsní, zalévá Ivana světlem a rozstřikuje paprsky na všechny str
 
 > Ráno se probouzí mlčenlivý, ale už zcela klidný a zdráv. Jeho rozjitřená paměť se ztiší a až do příštího úplňku už nikdo neruší jeho spánek: ani beznosý Hestasův kat, ani nelítostný pátý prokurátor Judeje, jezdec Zlatého kopí Pilát Pontský.
 
-  
+</section>
+
+<section>
 
 _1929–1940_
+
+</section>

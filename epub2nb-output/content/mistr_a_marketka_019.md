@@ -3,6 +3,8 @@ title: 13 Objevil se hrdina
 contentType: prose
 ---
 
+<section>
+
 Tak tedy neznámý pohrozil Ivanovi prstem a zašeptal: „Pst!“ Básník, nohy spuštěné na podlahu, ho upřeně pozoroval.
 
 Z balkónu opatrně nahlížel do pokoje pečlivě vyholený, tak asi osmatřicetiletý tmavovlasý muž se špičatým nosem, vyplašenýma očima a neposlušným pramenem vlasů, spadlým do čela.
@@ -382,3 +384,5 @@ Co svěřoval básníkovi do ucha, ho zřejmě nesmírně rozčilovalo: obličej
 „Ne, ne,“ odmítal host a nervózně sebou trhl. „Kdykoliv si vzpomenu na svůj román, roztřesu se. Váš známý z Patriarších rybníků by to svedl líp. Díky za společnost a na shledanou.“
 
 A než se Ivan nadál, mříž s tichým zazvoněním klapla a neznámý host zmizel.
+
+</section>

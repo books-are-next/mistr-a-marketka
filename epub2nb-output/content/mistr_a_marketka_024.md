@@ -3,6 +3,8 @@ title: 18 Neúspěšní návštěvníci
 contentType: prose
 ---
 
+<section>
+
 Ve chvíli, kdy starostlivý Lastočkin uháněl taxíkem, aby padl na samočinně píšící oblek, vyšel spolu s jinými cestujícími z devátého místenkového vagónu první třídy kyjevského vlaku, který právě přijel do Moskvy, solidně vypadající muž s malým vulkánovým kufříkem v ruce. Nebyl to nikdo jiný než strýc nebožtíka Berlioze Maxmilián Andrejevič Poplavský, ekonom plánovač, jenž toho času bydlel v Kyjevě v bývalé Institutské ulici. Příčinou jeho dnešního příjezdu do Moskvy byl telegram, který došel předevčírem pozdě večer a zněl:
 
 „Právě mě přejela tramvaj na Patriarších, pohřeb pátek tři hodiny odpoledne přijeď Berlioz.“
@@ -462,3 +464,5 @@ Kuzmin místo aby vytočil Bureovo číslo, telefonoval do sběrny pijavek, ohl�
 O dvě hodiny později profesor Kuzmin seděl v ložnici na posteli a na spáncích, za ušima a na krku mu visely pijavice. V nohách postele, na hedvábně prošívané pokrývce, seděl profesor Bure s prošedivělými kníry, účastně pozoroval svého kolegu a utěšoval ho, že to celé je nesmysl. Za oknem se černala noc.
 
 Nemáme ponětí, jaké další záhady se odehrály té noci v Moskvě, a nehodláme po nich pátrat tím spíš, že je na čase přejít k druhé části našeho pravdivého příběhu. A proto za mnou, milý čtenáři!
+
+</section>

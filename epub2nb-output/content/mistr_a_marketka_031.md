@@ -3,6 +3,8 @@ title: 24 Únos Mistra
 contentType: prose
 ---
 
+<section>
+
 Ve Wolandově ložnici bylo všecko tak jako před plesem. Mág seděl v košili na posteli, jenomže Hela místo aby mu natírala nohu, prostírala k večeři na stole, kde hrál Woland s kocourem šachy. Korovjev a Azazelo odložili frak a seděli u stolu společně s kocourem, který se nechtěl rozloučit se svým motýlkem, třebaže se teď proměnil ve špinavý cár. Markéta došla vrávoravě ke stolu a opřela se o desku. Woland na ni zakýval jako prve a vybídl ji posuňkem, aby usedla vedle něho.
 
 „Tak co, hodně vás potrápili moji hosté?“ zeptal se.
@@ -616,3 +618,5 @@ Zmizel i černý vůz před domem. Azazelo odevzdal Markétě ztracený dar, ro
 Za hodinu v prvním pokoji sklepního bytu v malém domku, který se krčil v jedné uličce nedaleko Arbatu, seděla Markéta u stolu pokrytého sametovým přehozem a tiše plakala úlevou a štěstím. Vedle zářící lampy se stínítkem stála vázička s konvalinkami. Všecko v pokoji bylo přesně tak jako před onou děsivou podzimní nocí loňského roku. Před Markétou ležel od ohně zkroucený sešit a vedle se kupila hromádka nedotčených sešitů. V domku bylo ticho. V sousedním pokojíku ležel na pohovce Mistr, přikrytý nemocničním županem, a v hlubokém spánku tiše, stejnoměrně oddechoval.
 
 Když se Markéta vyplakala, vzala do ruky sešity a našla místo, které pročítala předtím, než potkala Azazela v parku u kremelské zdi. Nechtělo se jí spát. Láskyplně hladila rukopis, jako se hladívá oblíbená kočka, a obracela ho v rukou, okukovala ze všech stran, střídavě upírala pohled na titulní list a zas vyhledala konec. Přepadlo ji děsivé pomyšlení, že tohle všecko jsou možná jenom samé čáry, že jí sešity vzápětí zmizí z očí, ona se probudí ve své ložnici ve vile a nezbude jí, než aby se šla utopit. Tahle strašlivá myšlenka byla posledním nepříjemným dozvukem minulých dlouhotrvajících útrap. Ve skutečnosti všecko zůstalo na svém místě, Woland byl skutečně všemocný. Po libosti, třeba až do svítání, mohla šelestit stránkami, prohlížet si je, líbat a číst památná slova: „Tma, která se přihnala od Středozemního moře, zahalila prokurátorovo nenáviděné město.“ Ano, tma…
+
+</section>

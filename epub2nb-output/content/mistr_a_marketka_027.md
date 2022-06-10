@@ -3,6 +3,8 @@ title: 20 Azazelův krém
 contentType: prose
 ---
 
+<section>
+
 Na jasné večerní obloze visel úplněk a probleskoval mezi větvemi javoru. V jeho světle lípy a akáty vykroužily v parku na zemi složité vzory. Třídílné okno v arkýři bylo otevřené a těžkým závěsem se dralo ven světlo. V Markétině ložnici zářily všecky lampy a nemilosrdně odhalovaly obrovský nepořádek, jaký tu panoval.
 
 Na posteli ležely pohozené košile, punčochy a prádlo a další zmuchlané prádlo se válelo jednoduše na podlaze spolu s krabičkou cigaret, kterou kdosi v rozčilení zmačkal. Na nočním stolku sousedily střevíce s nedopitým šálkem kávy a popelníkem, kde ještě čadil nedopalek cigarety. Přes opěradlo křesla splývala černá večerní toaleta a po celém pokoji se šířila vůně voňavek, smíšená s pachem rozpálené žehličky.
@@ -94,3 +96,5 @@ Markéta se otočila, naposled přelétla pohledem vilu, kde se tolik natrápila
 „Sbohem, Natašo!“ houkla na ni a zamířila kolmo vzhůru.
 
 „Mha přede mnou, mha za mnou!“ vykřikla, až se to kolem rozléhalo, prosmýkla se mezi větvemi javoru, které ji bičovaly do tváře, a vylétla nad branku do uličky. Za ní se nesl pádivý zběsilý valčík.
+
+</section>

@@ -3,6 +3,8 @@ title: "10 Zprávy z\_Jalty"
 contentType: prose
 ---
 
+<section>
+
 Zatímco Nikanora Ivanoviče postihlo neštěstí, blízko domu číslo 302b v Sadové ulici seděli v kanceláři administrativního ředitele Varieté Rimského dva muži: Rimský a administrátor Varieté Varenucha.
 
 Dvě okna prostorné kanceláře v prvním patře divadla vedla do Sadové a jedno, přímo za zády ředitele, který seděl u psacího stolu, skýtalo pohled do letního parku Varieté, kde byly stánky s občerst­vením, střelnice a estráda pod širým nebem. Zařízení kanceláře se kromě psacího stolu skládalo z kupy starých plakátů, rozvěšených po stěnách, dále z malého stolku s karafou plnou vody, čtyř křesel a stojanu v koutě, na kterém byla stará zaprášená maketa nějaké revue. Jinak byste tu samozřejmě našli nalevo od ředitelova stolu odřenou menší ohnivzdornou pokladnu, která hodně pamatovala.
@@ -21,14 +23,18 @@ Schovával se v ředitelově kanceláři přede všemi, kdo na něm vymáhali v
 
 > Otevřely se dveře a uvaděč vlekl tlustý balík narychlo vytištěných plakátů. Na brčálově zelených plachtách hlásala velká rudá písmena:
 
-  
+</section>
+
+<section>
 
 Dnes a denně v divadle Varieté vystoupí mimo program  
 profesor WOLAND  
 SEANCE ČERNÉ MAGIE  
 A JEJÍ ÚPLNÉ ODHALENÍ!!!
 
-  
+</section>
+
+<section>
 
 Varenucha poodstoupil od plakátu, který předtím přehodil přes maketu, zálibně si jej prohlížel a pak dal uvaděči pokyn, aby celý náklad okamžitě vylepil.
 
@@ -277,3 +283,5 @@ Oba banditi zmizeli, jako když se po nich země slehne, a místo nich se objev
 Ivanu Saveljeviči bylo jasné, že tohle je to nejhorší, co ho mohlo potkat, a proto zasténal a odvrátil se ke stěně. Dívka přistoupila až k němu a položila mu ruce na ramena. Ubožákovi se zježily vlasy, protože i přes studenou, promočenou látku košile cítil, jak dívčiny ruce ledově mrazí.
 
 „Ukaž, ať tě políbím,“ pronesla něžně a její fosforeskující oči se ocitly těsně u Varenuchových. V tom okamžiku administrátor pozbyl vědomí, a tak už dívčin polibek nevnímal.
+
+</section>

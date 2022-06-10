@@ -3,6 +3,8 @@ title: 7 Podezřelý byt
 contentType: prose
 ---
 
+<section>
+
 Kdyby příštího dne ráno někdo vyhrožoval Sťopovi asi takhle: „Sťopo! Jestliže okamžitě nevstaneš, zastřelí tě!“, zamručel by Sťopa zmoženým hlasem: „Aťsi mě zastřelí! Dělejte se mnou, co chcete, já nevstanu.“
 
 Nejen že nemohl vstát, ale připadalo mu, že nesmí ani otevřít oči, jinak sjede z nebe blesk a rozpoltí mu kebuli na kusy. V hlavě mu hučelo, jako by tam vyzváněl těžký zvon, mezi zorničkami a zavřenými víčky pluly hnědě, červeně a zeleně lemované skvrny a k dovršení všeho se mu chtělo zvracet; přitom se zdálo, že ten nutkavý pocit souvisí se zvukem jakéhosi dotěrného gramofonu.
@@ -210,3 +212,5 @@ Lotrov provedl následující kousek: poklekl před neznámým a zeptal se:
 „No přece Jalta!“
 
 Lotrov se s tichým povzdechem svalil na bok, uhodil se do hlavy o vyhřátý kámen mola a ztratil vědomí.
+
+</section>

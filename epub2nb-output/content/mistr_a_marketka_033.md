@@ -3,6 +3,8 @@ title: 26 Pohřeb
 contentType: prose
 ---
 
+<section>
+
 Snad právě vinou soumraku se prokurátor změnil k nepoznání. Jako by náhle zestárnul, shrbil se a zneklidněl. Jednou se dokonce ohlédl a trhl sebou při pohledu na křeslo, kde ležel přes opěradlo přehozený plášť. Blížila se sváteční noc a ve hře večerních stínů se unavenému vladaři nejspíš zdálo, že kdosi sedí v prázdném křesle. Malověrně se dotkl pláště, ale látka mu vyklouzla z prstů. Pobíhal sem a tam po kolonádě, mnul si ruce, chvílemi běžel ke stolu a popadl číši, občas se zastavil a nepříčetnýma očima pozoroval mozaikovou podlahu, jako by z ní chtěl cosi vyčíst.
 
 Dnes ho už podruhé přepadl podivný smutek. Mnul si rukou spánek, kde byla po ďábelské bolesti jen tupě trnoucí vzpomínka, a snažil se zoufale vypátrat příčinu své duševní trýzně. Brzy pochopil, ale snažil se oklamat sám sebe. Bylo mu jasné, že dnešního dne cosi nenávratně ztratil a teď to chce napravit drobnými, zbytečnými a hlavně opožděnými činy. Namlouval si, že tyto večerní skutky jsou stejně důležité jako ranní rozsudek, ale právě to se mu nedařilo.
@@ -486,3 +488,5 @@ Za hodinu už nebylo po Matoušovi v paláci ani vidu, ani slechu.
 Ranní ticho rušily pouze tlumené kroky stráží v zahradách. Měsíc valem bledl a na protějším obzoru se vyhoupla jitřenka, podobná bělavé skvrně. Svícny dávno pohasly. Vladař ležel na lůžku, ruku pod hlavou, a tiše oddechoval. Vedle spal Banga.
 
 Tak přivítal úsvit patnáctého dne měsíce nísánu pátý prokurátor Judeje Pilát Pontský.
+
+</section>

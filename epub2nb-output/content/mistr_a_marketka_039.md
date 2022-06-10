@@ -3,6 +3,8 @@ title: "32 Odpuštění a\_věčný klid"
 contentType: prose
 ---
 
+<section>
+
 Ó bohové! Jak smutná je večerní krajina a jak tajemné jsou mlhy a močály! Kdo v těch mlhách bloudil, kdo letěl nad zemí vyčerpán vysilujícím břemenem, ten to zná. Ví to každý unavený poutník. Bez lítosti opouští zemi ztajenou v mlhách, její močály i řeky a vrhá se s lehkým srdcem do náruče smrti, protože ví, že ona jediná přináší vytoužený klid.
 
 I kouzelní vraníci se unavili a zpomalili krok pod svými jezdci. Začala je dohánět neodvratná noc. Cítili ji za zády, a dokonce i neposedný kocour se tvářil vážně a mlčel, ocas naježený a drápy vryté do sedla.
@@ -68,3 +70,5 @@ Jeho hlas se proměnil ozvěnou v dunění hromu, který znamenal zkázu. Prokl
 „Slyšíš, jak je všude kolem ticho?“ upozorňovala Markétka Mistra a pod jejíma bosýma nohama zaskřípal písek. „Zaposlouchej se do něho a vychutnej do sytosti to, co ti v životě bylo odepřeno – klid. Vidíš tamhle svůj věčný dům, který ti přiřkli za odměnu? Už si představuju benátské okno, stíněné divokým vínem, které obrůstá dům až po střechu. Hle, tvůj dům, tvůj věčný dům! Vím, že večer k tobě přijdou ti, které máš rád, s kým si rozumíš a kdo tě uklidní. Budou ti hrát, zpívat a poznáš, jak se místnost krásně rozzáří ve svitu voskovic. Budeš usínat ve své usmolené oblíbené čepičce, s úsměvem na rtech. Spánek tě posílí a napadnou tě moudré věci. A mě už nesmíš odehnat. Budu střežit tvůj spánek.“
 
 To všecko pronášela, když kráčeli k věčnému domu, a Mistrovi se zdálo, že její slova plynou jako bublavý potůček za jejich zády. V jeho neklidném, bolestně zraňovaném vědomí se rozhostil smír. Cítil se svoboden po tom, co sám propustil na svobodu svého hrdinu, který zmizel v nekonečnu omilostněn v oné sváteční noci, on, syn krále hvězdopravce, nelítostný pátý prokurátor Judeje a jezdec Zlatého kopí Pilát Pontský.
+
+</section>

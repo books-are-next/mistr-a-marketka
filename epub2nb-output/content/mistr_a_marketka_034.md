@@ -3,6 +3,8 @@ title: 27 Zkáza bytu č\. 50
 contentType: prose
 ---
 
+<section>
+
 Když Markéta dospěla k závěrečným slovům kapitoly „Tak přivítal úsvit patnáctého dne měsíce nísánu pátý prokurátor Judeje Pilát Pontský“, už se rozednívalo.
 
 Bylo slyšet, jak na dvorku v korunách vrby a lípy se po ránu vesele hašteří vrabci.
@@ -234,3 +236,5 @@ Sotva se z rozbitých oken začarovaného bytu vyvalily první chuchvalce dýmu
 V různých patrech činžáku křičeli obyvatelé do sluchátek: „Sadová, Sadová, 302b!“
 
 Zatímco se v Sadové rozječely sirény na pádících červených protáhlých vozech, které se sjížděly z různých koutů města, zmateně pobíhající lidé na dvoře zahlédli, jak v oblacích dýmu vylétly z okna ve čtvrtém patře tři temné mužské postavy a jedna ženská, docela nahá.
+
+</section>

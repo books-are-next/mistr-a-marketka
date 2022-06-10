@@ -3,6 +3,8 @@ title: 15 Sen Nikanora Ivanoviče
 contentType: prose
 ---
 
+<section>
+
 Není těžké uhodnout, že tlouštík s brunátným obličejem, nový obyvatel stodevatenáctky, nebyl nikdo jiný než Nikanor Ivanovič Bosý.
 
 Pravda, k profesoru Stravinskému se nedostal hned, protože předtím dlel na jiném místě, odkud si zachoval jen matné vzpomínky: utkvěl mu všeho všudy psací stůl, skříň a pohovka.
@@ -161,12 +163,16 @@ Sálem zaburácel potlesk, až se Nikanoru Ivanoviči zdálo, že v lustrech po
 
 Slíbený Kurolesov se brzy nato objevil na scéně. Byl to statný, bezvadně vyholený muž ve fraku a bílé vázance. Bez jakéhokoliv úvodu nasadil zachmuřený výraz, svraštil obočí a spustil teatrálně, s pohledem upřeným na zlatý zvonek:
 
-  
+</section>
+
+<section>
 
 _Jak mladý hejsek na schůzku se třese,  
 když uvidí svou zrádnou milostenku…_
 
-  
+</section>
+
+<section>
 
 Kurolesov na sebe prozradil mnoho nepěkných věcí. Bosý na vlastní uši slyšel, jak přiznal, že jakási nešťastná plačící vdova před ním klečela v dešti, ale jeho kamenné srdce se neobměkčilo.
 
@@ -283,3 +289,5 @@ Ale jeho výkřiky vyvolaly neklid ve stodvacítce, kde se pacient probudil a z
 Ze stoosmnáctky se vzrušení přeneslo po balkóně k Ivanovi, který se s pláčem probudil.
 
 Ale lékaři brzy uklidnili vyšinuté pacienty, takže všichni postupně usínali. Nejdéle to trvalo Ivanovi. Spánek ho přemohl, až když nad řekou svítalo. Po léku, který se mu rozlil po celém těle, ho zaplavila uklidňující vlna. Cítil se lehký jako pírko a hlava se propadala do slastné dřímoty jako pod teplými závany větru. Poslední, co vnímal, bylo ptačí štěbetání v lese před úsvitem. Ale i to utichlo a Ivan ve snu viděl, jak už se slunce sklání nad Golgotou, obklíčenou dvojitým řetězem vojáků…
+
+</section>

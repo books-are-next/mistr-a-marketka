@@ -3,6 +3,8 @@ title: 2 Pilát Pontský
 contentType: prose
 ---
 
+<section>
+
 Čtrnáctého dne jarního měsíce nísánu kráčel časně zrána hřmotným vojenským krokem po kryté kolonádě mezi dvěma křídly paláce Héróda Velikého správce Judeje Pilát Pontský v bílém plášti s purpurovou podšívkou.
 
 Ze všeho na světě nejvíc nenáviděl vůni růžového oleje. A dnes všecko předpovídalo špatný den, protože tahle vůně pronásledovala prokurátora od božího rána.
@@ -528,3 +530,5 @@ Jízda zmizela v uličce a zůstal po ní jenom sloup zvířeného prachu. Pos
 Správce Judeje nespokojeně svraštil čelo, rukou si stínil tvář před prachem a znovu vykročil. Mířil k bráně palácových zahrad a za ním legát, tajemník a stráž.
 
 Bylo kolem desáté hodiny dopoledne.
+
+</section>
