@@ -3,8 +3,6 @@ title: 30 Je čas! Je čas!
 contentType: prose
 ---
 
-  
-
 „Víš, když jsi včera v noci usnul, četla jsem o tmě, která se přihnala od Středozemního moře… Ještě teď před sebou vidím zlaté okřídlené modly a pořád na ně musím myslet… Zdá se, že se žene bouře. Cítíš, jak se ochladilo?“ zeptala se Markétka.
 
 „To všecko je moc hezké,“ odpovídal Mistr, kouřil a odháněl dým rukou, „zlaté modly… hm… bůh s nimi… jenom nechápu, co bude dál!“

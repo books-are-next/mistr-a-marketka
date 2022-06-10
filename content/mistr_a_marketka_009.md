@@ -3,8 +3,6 @@ title: 3 Sedmý důkaz
 contentType: prose
 ---
 
-  
-
 „Ano, bylo kolem desáté hodiny dopoledne, vážený Ivane Nikolajeviči,“ uzavřel profesor.
 
 Básník si přejel rukou po obličeji, jako by se právě vzpamatoval, a viděl, že se mezitím na Patriarší rybníky snesl večer. Voda v jezírku zčernala a klouzala po ní lehká loďka: bylo slyšet pleskání vesla a perlivý smích jakési občanky v loďce. V alejích posedávali lidé na lavičkách, ale tam, kde seděli naši diskutéři, bylo prázdno.

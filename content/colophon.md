@@ -7,12 +7,11 @@ title: Tiráž
 **  
 Edice Klasická světová próza  
 Překlad Alena Morávková  
-Ilustrace na obálce _Paul Ranson,_ _La Sorcière au chat noir_ _(1893)_  
 Redakce Markéta Teuchnerová  
 Vydala Městská knihovna v Praze  
 Mariánské nám. 1, 115 72 Praha 1  
 V MKP 1. elektronické vydání  
-1. vydání z 12. 5. 2022.
+1. vydání z 10. 6. 2022.
 
 ***
 
@@ -25,8 +24,6 @@ Text díla (Michail Bulgakov: Mistr a Markétka), publikovaného [Městskou kni
 ![image001.jpg](./resources/image001_fmt.jpeg)
 
 Vydání (obálka, upoutávka, citační stránka a grafická úprava), jehož autorem je Městská knihovna v Praze, podléhá licenci [Creative Commons Uveďte autora-Nevyužívejte dílo komerčně-Zachovejte licenci 3.0 Česko](https://creativecommons.org/licenses/by-nc-sa/3.0/cz/).
-
-  
 
 
   

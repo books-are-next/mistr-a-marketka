@@ -3,8 +3,6 @@ title: 27 Zkáza bytu č\. 50
 contentType: prose
 ---
 
-  
-
 Když Markéta dospěla k závěrečným slovům kapitoly „Tak přivítal úsvit patnáctého dne měsíce nísánu pátý prokurátor Judeje Pilát Pontský“, už se rozednívalo.
 
 Bylo slyšet, jak na dvorku v korunách vrby a lípy se po ránu vesele hašteří vrabci.

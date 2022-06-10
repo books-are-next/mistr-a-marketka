@@ -3,8 +3,6 @@ title: 15 Sen Nikanora Ivanoviče
 contentType: prose
 ---
 
-  
-
 Není těžké uhodnout, že tlouštík s brunátným obličejem, nový obyvatel stodevatenáctky, nebyl nikdo jiný než Nikanor Ivanovič Bosý.
 
 Pravda, k profesoru Stravinskému se nedostal hned, protože předtím dlel na jiném místě, odkud si zachoval jen matné vzpomínky: utkvěl mu všeho všudy psací stůl, skříň a pohovka.
@@ -163,8 +161,12 @@ Sálem zaburácel potlesk, až se Nikanoru Ivanoviči zdálo, že v lustrech po
 
 Slíbený Kurolesov se brzy nato objevil na scéně. Byl to statný, bezvadně vyholený muž ve fraku a bílé vázance. Bez jakéhokoliv úvodu nasadil zachmuřený výraz, svraštil obočí a spustil teatrálně, s pohledem upřeným na zlatý zvonek:
 
+  
+
 _Jak mladý hejsek na schůzku se třese,  
 když uvidí svou zrádnou milostenku…_
+
+  
 
 Kurolesov na sebe prozradil mnoho nepěkných věcí. Bosý na vlastní uši slyšel, jak přiznal, že jakási nešťastná plačící vdova před ním klečela v dešti, ale jeho kamenné srdce se neobměkčilo.
 

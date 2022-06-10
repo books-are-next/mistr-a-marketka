@@ -3,8 +3,6 @@ title: "22 V\_záři voskovic"
 contentType: prose
 ---
 
-  
-
 Pravidelný hukot motoru Markétu zkolébával ke spánku, vůz letěl vysoko nad zemí a měsíční světlo příjemně hřálo. Zavřela oči, nastavila tvář větru a bůhvíproč smutně vzpomínala na neznámý břeh řeky, který právě opustila; cítila, že už se tam nikdy nevrátí. Po všech těch kouzlech a zázracích dnešního večera se dovtípila, ke komu ji vlastně vezou na návštěvu, ale neděsilo ji to. Doufala, že tam znovu najde své štěstí, a to jí dodávalo sílu. Ostatně, na delší úvahy nezbýval čas. Buďto havran rozuměl dokonale svému řemeslu, anebo díky bleskurychlému vozu brzy uviděla pod sebou místo temné lesní houštiny rozčeřené moře moskevských světel. Černý šofér za letu odšrouboval pravé přední kolo a přistál na pustém osamělém hřbitůvku kdesi blízko Dorogomilova.
 
 Vysadil Markétu, která se na nic neptala, u jednoho náhrobku společně s koštětem, pak nastartoval vůz a namířil jej přímo do strže za hřbitovem: s rachotem se tam zřítil a rozbil. Havran uctivě zasalutoval, vyšvihl se na zbylé kolo a odletěl.

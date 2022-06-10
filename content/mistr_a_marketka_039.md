@@ -3,8 +3,6 @@ title: "32 Odpuštění a\_věčný klid"
 contentType: prose
 ---
 
-  
-
 Ó bohové! Jak smutná je večerní krajina a jak tajemné jsou mlhy a močály! Kdo v těch mlhách bloudil, kdo letěl nad zemí vyčerpán vysilujícím břemenem, ten to zná. Ví to každý unavený poutník. Bez lítosti opouští zemi ztajenou v mlhách, její močály i řeky a vrhá se s lehkým srdcem do náruče smrti, protože ví, že ona jediná přináší vytoužený klid.
 
 I kouzelní vraníci se unavili a zpomalili krok pod svými jezdci. Začala je dohánět neodvratná noc. Cítili ji za zády, a dokonce i neposedný kocour se tvářil vážně a mlčel, ocas naježený a drápy vryté do sedla.

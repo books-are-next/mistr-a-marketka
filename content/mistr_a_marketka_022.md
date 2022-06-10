@@ -3,8 +3,6 @@ title: 16 Poprava
 contentType: prose
 ---
 
-  
-
 Slunce už se sklánělo nad Golgotou, obklíčenou dvojitým řetězem vojáků.
 
 Jízda, která před polednem zkřížila prokurátorovi cestu, docválala k hebronské městské bráně, kde jí proklestili cestu davem vojáci kappadocké pěší kohorty. Rozprášili hloučky lidí, mezků a velbloudů a ala ostrým cvalem dorazila na křižovatku a zvedala sloupy prachu. Tady se sbíhaly dvě cesty: jižní, která vedla do Betléma, a severozápadní, jaffská. Jezdci se pustili po severozápadní cestě. Kappadočtí stáli roztroušeni po kraji silnice a odháněli z ní karavany, které pospíchaly na svátky do Jeruzaléma. Za vojáky kappadockého oddílu se kupily houfy poutníků, kteří opustili svůj dočasný úkryt v pruhovaných stanech, rozložených rovnou na trávě. Oddíl urazil asi kilometrovou vzdálenost, když předhonil druhou kohortu Bleskové legie, a po dalším kilometru dosáhl jako první úpatí Golgoty. Jezdci seskákali z koní. Velitel je rozdělil do čet, které obsadily celé úpatí nevysokého pahorku. Zůstal jediný volný přístup – od jaffské silnice.

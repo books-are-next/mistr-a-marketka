@@ -3,8 +3,6 @@ title: 24 Únos Mistra
 contentType: prose
 ---
 
-  
-
 Ve Wolandově ložnici bylo všecko tak jako před plesem. Mág seděl v košili na posteli, jenomže Hela místo aby mu natírala nohu, prostírala k večeři na stole, kde hrál Woland s kocourem šachy. Korovjev a Azazelo odložili frak a seděli u stolu společně s kocourem, který se nechtěl rozloučit se svým motýlkem, třebaže se teď proměnil ve špinavý cár. Markéta došla vrávoravě ke stolu a opřela se o desku. Woland na ni zakýval jako prve a vybídl ji posuňkem, aby usedla vedle něho.
 
 „Tak co, hodně vás potrápili moji hosté?“ zeptal se.

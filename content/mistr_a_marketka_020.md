@@ -3,8 +3,6 @@ title: 14 Sláva kohoutovi!
 contentType: prose
 ---
 
-  
-
 Nervy nevydržely, jak se praví, a Rimský nečekal, až sepíšou protokol, a uchýlil se do své kanceláře. Seděl u stolu a očima provrtával magické rubly před sebou. Obával se, že mu přeskočilo. Zvenku doléhal rovnoměrný hukot, jak se diváci vyhrnuli proudem z Varieté. Vtom zbystřeným sluchem zachytil zřetelný hvizd milicionářské píšťalky. Sama o sobě nikdy neslibuje nic dobrého. Ale když se hvizd opakoval, později se přidal další, táhlejší a naléhavější, a nakonec se přimísil hlučný řehot a posměšné pokřikování, ředitel pochopil, že venku došlo k dalšímu odpornému skandálu a – přestože si to nerad připouštěl – že to souvisí s hnusným představením, které uspořádal černý mág a jeho pomocníci.
 
 Obezřetný Rimský se nemýlil. Sotva vykoukl z okna do Sadové ulice, zlostně se ušklíbl a zasyčel:

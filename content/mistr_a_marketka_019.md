@@ -3,8 +3,6 @@ title: 13 Objevil se hrdina
 contentType: prose
 ---
 
-  
-
 Tak tedy neznámý pohrozil Ivanovi prstem a zašeptal: „Pst!“ Básník, nohy spuštěné na podlahu, ho upřeně pozoroval.
 
 Z balkónu opatrně nahlížel do pokoje pečlivě vyholený, tak asi osmatřicetiletý tmavovlasý muž se špičatým nosem, vyplašenýma očima a neposlušným pramenem vlasů, spadlým do čela.
