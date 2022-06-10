@@ -3,8 +3,6 @@ title: "28 Poslední dobrodružství dlouhána Korovjeva a\_kocoura Kňoura"
 contentType: prose
 ---
 
-  
-
 Nikdo nedovede s určitostí říct, zda vyděšení nájemníci začarovaného domu v Sadové ulici skutečně zahlédli tři temné postavy, nebo zda se jim to jen zdálo. Stejně tak nikdo nedokáže uhodnout, kam mířily. Nevíme ani, kde se rozdělily, pouze víme, že asi čtvrt hodiny po požáru se vynořil u skleněných lítacích dveří přepychového obchodu na Smolenském rynku, kde se prodávalo jen za dolary, dlouhán v kostkovaném obleku a s ním mohutný černý kocour. Kostkovaný rozrážel dav a prodíral se ke dveřím, kde mu zastoupil cestu vrátný, vyzáblý mrňous, tvářil se krajně nepřátelsky a vybafl podrážděně:
 
 „Kocouři sem nesmí!“

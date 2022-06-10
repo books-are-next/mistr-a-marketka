@@ -3,8 +3,6 @@ title: 11 Ivanovo rozdvojení
 contentType: prose
 ---
 
-  
-
 Les na protějším břehu řeky, ještě před hodinou projasněný májovým sluncem, zešedl, rozmazal se a nakonec docela zmizel.
 
 Za oknem visela dešťová clona. Na obloze občas vyšlehovala ohnivá vlákna, nebe pukalo a pokoj nemocného se ozářil hrozivým rozeklaným světlem.

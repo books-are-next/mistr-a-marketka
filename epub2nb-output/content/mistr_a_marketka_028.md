@@ -3,8 +3,6 @@ title: 21 Let
 contentType: prose
 ---
 
-  
-
 Mha přede mnou, mha za mnou!… Markéta proletěla známou uličkou a zabočila do jiné, která přetínala první v pravém úhlu. Tuhle záplatami vyspravenou, pokřivenou uličku, dlouhou jak jitrnice, s polozborcenými dveřmi krámku, kde prodávali do bandasek petrolej a lahvičky s nějakým smradem proti štěnicím, minula ve chvilce a vtom ji napadlo, že ačkoliv je teď naprosto svobodná a neviditelná, musí krotit své choutky. Jenom zázrakem přibrzdila a nerozbila si hlavu o starou šišatou lucernu na rohu. V posledním okamžiku se jí vyhnula, ještě pevněji sevřela smeták, plula dál už rozvážněji a přitom dávala dobrý pozor na dráty elektrického vedení i vývěsní štíty.
 
 Třetí ulička ústila přímo na Arbat. Tady už si Markétka plně osvojila techniku letu a bylo jí jasné, že její dřevěný oř reaguje na sebemenší pohyb rukou či nohou a že zejména ve městě musí být člověk opatrný a držet se zpátky. Mimo jiné se přesvědčila hned v první uličce, že je skutečně neviditelná. Nikdo nezakláněl hlavu s výkřikem „podívejte!“, neuskakoval stranou, nevřískal, neomdlíval ani se bláznivě nesmál.

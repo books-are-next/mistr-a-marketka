@@ -3,8 +3,6 @@ title: 18 Neúspěšní návštěvníci
 contentType: prose
 ---
 
-  
-
 Ve chvíli, kdy starostlivý Lastočkin uháněl taxíkem, aby padl na samočinně píšící oblek, vyšel spolu s jinými cestujícími z devátého místenkového vagónu první třídy kyjevského vlaku, který právě přijel do Moskvy, solidně vypadající muž s malým vulkánovým kufříkem v ruce. Nebyl to nikdo jiný než strýc nebožtíka Berlioze Maxmilián Andrejevič Poplavský, ekonom plánovač, jenž toho času bydlel v Kyjevě v bývalé Institutské ulici. Příčinou jeho dnešního příjezdu do Moskvy byl telegram, který došel předevčírem pozdě večer a zněl:
 
 „Právě mě přejela tramvaj na Patriarších, pohřeb pátek tři hodiny odpoledne přijeď Berlioz.“

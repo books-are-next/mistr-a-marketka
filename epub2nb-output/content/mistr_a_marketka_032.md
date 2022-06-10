@@ -3,8 +3,6 @@ title: 25 Jak se prokurátor pokoušel zachránit Jidáše Iškariotského
 contentType: prose
 ---
 
-  
-
 Tma, která se přihnala od Středozemního moře, zahalila prokurátorovo nenáviděné město. Zmizely visuté mosty, spojující chrám s obávanou Antoniovou věží, z oblohy se snesla bezedná čerň a zaplavila okřídlené bohy nad hipodromem, hasmonejský palác se střílnami, tržiště, útulky pro karavany, uličky a rybníky… Velké město zmizelo z povrchu zemského, jako by nikdy neexistovalo. Tma pozřela a vyděsila všecko živé v Jeruzalémě i okolí. Podivný mrak se přihnal od moře kvečeru čtrnáctého dne jarního měsíce nísánu.
 
 Převalil se přes Golgotu, kde kati spěšně dobíjeli ukřižované, snesl se na jeruzalémský chrám a jako kouřová clona klouzal z kupole přímo na Dolní Město. Vléval se do oken a zaháněl lidi z křivolakých uliček do domů. Nespěchal vydávat vláhu, zatím šířil jen světlo. Sotva černou prachovou peřinu rozpáral blesk, z neproniknutelné tmy vysvitla chrámová hora se zářivou šupinatou kupolí. Vzápětí blesk pohasl a chrám se znovu propadl do bezedné černé propasti. Několikrát tak vyrůstal ze tmy a znovu mizel za hromového burácení, které věštilo katastrofu.

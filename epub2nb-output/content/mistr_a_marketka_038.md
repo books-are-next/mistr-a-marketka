@@ -3,8 +3,6 @@ title: 31 Na Vrabčích horách
 contentType: prose
 ---
 
-  
-
 Bouře se přehnala a nezanechala za sebou nejmenší stopy. Nad Moskvou se rozklenula duha jako barevný most a napájela se z řeky. Na návrší nad městem se černaly u nízkého křoví tři stíny. Woland, Korovjev a Kňour seděli na černých ořích a pozorovali město rozložené za řekou, kde se v tisíci oknech obrácených k západu, k jakoby marcipánovým věžím Novoděvičího kláštera, oslnivě odráželo tisíce malých sluncí.
 
 Vzduchem to zašumělo a Azazelo společně s Mistrem a Markétkou, ukrytými v cípu jeho černého pláště, přistáli u skupinky, která už je netrpělivě očekávala.

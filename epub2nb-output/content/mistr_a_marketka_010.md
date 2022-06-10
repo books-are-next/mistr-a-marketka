@@ -3,8 +3,6 @@ title: 4 Pronásledování
 contentType: prose
 ---
 
-  
-
 Utichly hysterické výkřiky žen, dozněl pronikavý hvizd milicio­nářských píšťalek, odjely dvě sanitky, první odvážela tělo bez hlavy a uříznutou hlavu na prosekturu, druhá pohlednou řidičku, zraněnou úlomky skla, domovníci v bílých zástěrách smetli rozbité sklo a posypali pískem krvavé kaluže a básník Ivan nestačil ani doběhnout k turniketu, jenom sklesl na lavičku a zůstal strnule sedět. Několikrát se pokusil vstát, ale nohy ho neposlouchaly, jako by náhle ochrnuly.
 
 Sotva zaslechl první výkřiky, rozběhl se k turniketu a uviděl, jak po dláždění poskakuje hlava. To ho natolik vykolejilo, že dopadl na lavičku a kousl se do ruky, až mu tekla krev. Na pomateného Němce samozřejmě zapomněl a jenom se snažil zoufale pochopit, jak je možné, že ještě před malou chvílí mluvil s Berliozem a za pár minut – hlava…

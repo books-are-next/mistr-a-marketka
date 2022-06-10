@@ -3,8 +3,6 @@ title: "23 Gala ples u\_satana"
 contentType: prose
 ---
 
-  
-
 Přikvačila půlnoc, a proto si museli pospíšit. Markétka jako ve snách sledovala, co se kolem děje. Zapamatovala si svíce a bazén vykládaný drahokamy. Ocitla se na dně a Hela s novou pomocnicí Natašou ji polévaly jakousi vřelou, hustou a rudou tekutinou. Ucítila na rtech slanou chuť a domyslela si, že ji omývají krví. Krvavou záplavu vystřídala jiná, stejně hustá, průzračná a narůžovělá – Markétě se zatočila hlava od růžového oleje. Pak ji položily na křišťálové lože a třely ji velikánskými zelenými lupeny, až se celá leskla.
 
 Vtom vtrhl dovnitř kocour a začal vydatně pomáhat. Usedl na bobek u Markétiných nohou, masíroval jí chodidla a tvářil se jako čistič bot na ulici.

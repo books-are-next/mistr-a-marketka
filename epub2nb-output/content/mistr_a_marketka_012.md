@@ -3,8 +3,6 @@ title: 6 Schizofrenie, jak už bylo řečeno
 contentType: prose
 ---
 
-  
-
 Když do čekárny vyhlášené psychiatrické kliniky, dostavěné ne­dávno na břehu řeky poblíž Moskvy, vešel muž v bílém plášti, se špičatou bradkou, bylo půl druhé v noci. Tři ošetřovatelé nespouštěli pohled z Bezprizorného, který seděl na pohovce vedle krajně rozrušeného básníka Sviňkova. Ležela tu i hromádka utěrek, jimiž číšníci Ivana spoutali. Bezprizorný měl ruce i nohy volné.
 
 Při pohledu na vcházejícího lékaře Sviňkov zbledl, odkašlal si a zmohl se na nesmělé:

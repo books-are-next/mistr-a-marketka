@@ -3,8 +3,6 @@ title: "8 Souboj profesora s\_básníkem"
 contentType: prose
 ---
 
-  
-
 Ve chvíli, kdy Sťopa v Jaltě pozbyl vědomí, totiž přibližně v půl dvanácté dopoledne, básník Ivan Bezprizorný vědomí nabyl: procitl totiž z hlubokého spánku. Chvíli pátral v paměti, jak se dostal do toho pokoje s bílými stěnami, neobvyklým nočním stolkem z jakéhosi světlého kovu a s bílými záclonami, kterými slabě prosvítalo slunce.
 
 Pohodil hlavou, přesvědčil se, že nebolí, a vtom si uvědomil, že je v ústavu. Tohle zjištění v něm vyvolalo vzpomínku na Berliozův konec, ale kupodivu ho dnes nezdrtila. Vyspalý básník se uklidnil a začal střízlivěji uvažovat. Chvilku ležel nehybně v čisťounké, měkké, pohodlně pérované posteli a pak zpozoroval vedle sebe zvonek. Jak byl zvyklý dotýkat se mechanicky předmětů, stiskl tlačítko. Čekal, že se ozve zazvonění nebo se někdo objeví, ale stalo se něco docela jiného.

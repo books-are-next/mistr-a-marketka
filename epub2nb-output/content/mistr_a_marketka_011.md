@@ -3,8 +3,6 @@ title: "5 Skandál v\_Gribojedovovi"
 contentType: prose
 ---
 
-  
-
 Starobylý jednopatrový dům krémové barvy na okružní třídě stál v hloubi zakrslé zahrady, obehnané ozdobnou kovovou mříží. Malý asfaltový plácek před domem, kde v zimě trůnila hromada sněhu s lopatou, se v létě proměnil v nejpřitažlivější část letní restaurace pod plátěnou střechou.
 
 Říkalo se mu Gribojedovův dům, protože prý ho kdysi vlastnila teta spisovatele Gribojedova. Ruku do ohně bych za to nedal. Pokud si vzpomínám, Gribojedov snad ani neměl tetu, která by byla majitelkou domu… Přesto vila nesla jeho jméno. Ba co víc, jistý moskevský žvanil vykládal, že prý v kruhovitém sloupovém sále v prvním patře slavný spisovatel předčítal vzpomínané tetičce, pohodlně rozvalené na pohovce, úryvky z Hoře z rozumu. Ostatně, čert ví, třeba to byla pravda, ale pro náš příběh to není důležité.

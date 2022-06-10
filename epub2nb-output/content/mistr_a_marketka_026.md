@@ -3,8 +3,6 @@ title: 19 Markétka
 contentType: prose
 ---
 
-  
-
 Čtenáři, za mnou! Kdo říká, že na světě neexistuje pravá láska, věrná až za hrob? Ať tomu lháři vyříznou jeho proradný jazyk! Čtenáři, za mnou! Neváhej a následuj mě, já ti takovou lásku ukážu.
 
 Ne, Mistr se mýlil, když si v půlnoční chvíli stěžoval Ivanovi v nemocnici, že na něj zapomněla. To se nemohlo stát. Samozřejmě že na něj nezapomněla.

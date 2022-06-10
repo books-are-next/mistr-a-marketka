@@ -3,8 +3,6 @@ title: "1 Nikdy se nepouštějte do řeči s\_neznámými lidmi"
 contentType: prose
 ---
 
-  
-
 V dusném jarním podvečeru se vynořili na Patriarších rybnících dva muži. První byl asi čtyřicátník malé postavy, v šedavém obleku, vykrmený proplešatělý brunet. V ruce žmoulal kvalitní klobouk smáčknutý na placku a jeho hladce vyholený obličej rámovaly nepřirozeně velké brýle s černou kostěnou obroučkou. Druhý byl ramenatý, nazrzlý, střapatý mládenec v kostkované čepici posunuté do týla, v pestré košili, bílých pomačkaných kalhotách a černých sandálech.
 
 První nebyl nikdo jiný než Michail Alexandrovič Berlioz, redaktor objemného literárního časopisu a předseda výboru jedné z největších moskevských literárních organizací, krátce zvané MASOLIT (Masová organizace literátů), jeho mladý průvodce pak básník Ivan Nikolajevič Potápka, píšící pod pseudonymem Bezprizorný.
