@@ -13,6 +13,7 @@ meta:
   modified: '2022-03-08T10:32:04.682Z'
   edition: beletrie
   publisherShort: mkp
+  isbn: 978-80-274-2491-7
 readingOrder:
   - promo.html
   - mistr_a_marketka_005.html
