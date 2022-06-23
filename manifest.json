@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "bulgakov-mistr-a-marketka-42b22a9",
-  "revision": "42b22a9",
+  "identifier": "bulgakov-mistr-a-marketka-c9dc399",
+  "revision": "c9dc399",
   "readingOrder": [
     "promo.html",
     "mistr_a_marketka_005.html",
@@ -51,8 +51,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Wed Jun 15 2022 05:53:25 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655272405769
+    "date": "Thu Jun 23 2022 10:16:13 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655979373807
   },
   "documents": [
     {
