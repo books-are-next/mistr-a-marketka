@@ -52,7 +52,7 @@ readingOrder:
   - mistr_a_marketka_038.html
   - mistr_a_marketka_039.html
   - mistr_a_marketka_040.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:
