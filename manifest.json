@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "bulgakov-mistr-a-marketka-c9dc399",
-  "revision": "c9dc399",
+  "identifier": "bulgakov-mistr-a-marketka-78e6918",
+  "revision": "78e6918",
   "readingOrder": [
     "promo.html",
     "mistr_a_marketka_005.html",
@@ -48,11 +48,11 @@
     "mistr_a_marketka_038.html",
     "mistr_a_marketka_039.html",
     "mistr_a_marketka_040.html",
-    "colophon.html"
+    "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jun 23 2022 10:16:13 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655979373807
+    "date": "Thu Jul 07 2022 08:34:32 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657182872925
   },
   "documents": [
     {
@@ -121,7 +121,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "1 Nikdy se nepouštějte do řeči s neznámými lidmi",
+          "name": "1 Nikdy se nepouštějte do řeči s neznámými lidmi",
           "id": null,
           "children": []
         }
@@ -221,7 +221,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "6 Schizofrenie, jak už bylo řečeno",
+          "name": "6 Schizofrenie, jak už bylo řečeno",
           "id": null,
           "children": []
         }
@@ -361,7 +361,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "13 Objevil se hrdina",
+          "name": "13 Objevil se hrdina",
           "id": null,
           "children": []
         }
@@ -621,7 +621,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "25 Jak se prokurátor pokoušel zachránit Jidáše Iškariotského",
+          "name": "25 Jak se prokurátor pokoušel zachránit Jidáše Iškariotského",
           "id": null,
           "children": []
         }
@@ -701,7 +701,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "29 Osud Mistra a Markétky je zpečetěn",
+          "name": "29 Osud Mistra a Markétky je zpečetěn",
           "id": null,
           "children": []
         }
@@ -721,7 +721,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "30 Je čas! Je čas!",
+          "name": "30 Je čas! Je čas!",
           "id": null,
           "children": []
         }
@@ -741,7 +741,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "31 Na Vrabčích horách",
+          "name": "31 Na Vrabčích horách",
           "id": null,
           "children": []
         }
@@ -776,7 +776,7 @@
       "role": "chapter",
       "order": 36,
       "prev": "mistr_a_marketka_039.html",
-      "next": "colophon.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
@@ -789,11 +789,11 @@
     },
     {
       "title": "Tiráž",
-      "file": "colophon.html",
+      "file": "about.html",
       "words": 144,
-      "chars": 951,
+      "chars": 950,
       "ideas": 18,
-      "role": "colophon",
+      "role": "about",
       "order": null,
       "prev": "mistr_a_marketka_040.html",
       "next": null,
@@ -810,8 +810,8 @@
   ],
   "totals": {
     "all": {
-      "words": 109354,
-      "chars": 685248,
+      "words": 109353,
+      "chars": 685252,
       "ideas": 3981
     },
     "chapters": {
