@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "bulgakov-mistr-a-marketka-16a7983",
-  "revision": "16a7983",
+  "identifier": "bulgakov-mistr-a-marketka-9ff0a56",
+  "revision": "9ff0a56",
   "readingOrder": [
     "promo.html",
     "mistr_a_marketka_005.html",
@@ -51,8 +51,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jul 07 2022 10:04:22 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1657188262812
+    "date": "Thu Jul 21 2022 14:38:21 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1658414301829
   },
   "documents": [
     {
@@ -791,7 +791,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 144,
-      "chars": 950,
+      "chars": 951,
       "ideas": 18,
       "role": "about",
       "order": null,
@@ -810,8 +810,8 @@
   ],
   "totals": {
     "all": {
-      "words": 109353,
-      "chars": 685252,
+      "words": 109354,
+      "chars": 685248,
       "ideas": 3981
     },
     "chapters": {
